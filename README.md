@@ -24,4 +24,4 @@ O dev.finances é uma aplicação de controle financeiro que foi desenvolvida du
 
 ---
 
-Produzido por Lucas Pinheiro
+Produzido por Lucas Pinheiro :metal:
